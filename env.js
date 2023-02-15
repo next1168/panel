@@ -4,7 +4,7 @@ window.settings = {
   // 站点描述
   description: 'V2Board is best',
   // API
-  host: 'api.next185.top',
+  host: 'https://api.next185.top',
   // 主题
   theme: {
     sidebar: 'light',
